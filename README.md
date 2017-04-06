@@ -1,10 +1,13 @@
-<html>
-<head>
+<h1>E-Learning MantabJiwa</h1>
+<p>Selamat datang di E-Learning MantabJiwa, Bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
+<hr>
+
 <style>
 a:link {
     color: blue;
     background-color: transparent;
     text-decoration: none;
+
 }
 a:visited {
     color: blue;
