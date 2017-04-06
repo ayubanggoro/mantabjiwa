@@ -1,5 +1,4 @@
-<html>
-<marquee width=200 height=50> mari belajar bersama kami </marquee>
+<marquee>mari belajar bersama kami</marquee>
 <body>
 <h1>E-Learning mantabjiwa</h1>
 <p>Selamat datang di E-Learning mantabjiwa, bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
