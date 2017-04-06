@@ -1,5 +1,7 @@
-<h1>E-Learning MantabJiwa</h1>
-<p>Selamat datang di E-Learning MantabJiwa, Bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
+<html>
+<body>
+<h1>E-Learning mantabjiwa</h1>
+<p>Selamat datang di E-Learning mantabjiwa, bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
 <hr>
 
 <style>
@@ -25,10 +27,9 @@ a:active {
     text-decoration: underline;
 }
 </style>
-</head>
+
 <body>
 
 <a href="https://ayubanggoro.github.io/Form-Pendaftaran">Form Pendaftaran</a> 
 
 </body>
-</html>
