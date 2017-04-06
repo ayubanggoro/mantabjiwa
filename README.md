@@ -25,7 +25,7 @@ a:active {
 </head>
 <body>
 
-<a href="https://ayubanggoro.github.io/form/Pendaftaran">Form Pendaftaran</a> 
+<a href="https://ayubanggoro.github.io/Form-Pendaftaran">Form Pendaftaran</a> 
 
 </body>
 </html>
