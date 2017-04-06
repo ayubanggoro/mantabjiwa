@@ -25,7 +25,7 @@ a:active {
 </head>
 <body>
 
-<a href="html_images.asp" target="_blank">HTML Images</a> 
+<a href="https://ayubanggoro.github.io/form/">Form Pendaftaran</a> 
 
 </body>
 </html>
