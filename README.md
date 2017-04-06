@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>E-Learning MantabJiwa</h1>
+<h1>E-Learning mantabjiwa</h1>
 <p>Selamat datang di E-Learning MantabJiwa, Bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
 <hr>
 
