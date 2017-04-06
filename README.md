@@ -1,5 +1,5 @@
 
-<marquee style="color:red;font-size:50%;font-family:verdana;">mari belajar bersama kami</marquee>
+<marquee style="color:red;font-size:150%;font-family:verdana;">mari belajar bersama kami</marquee>
 <body>
 <h1>E-Learning mantabjiwa</h1>
 <p>Selamat datang di E-Learning mantabjiwa, bagi anda yang ingin bergabung silahkan klik link di bawah ini:</p>
