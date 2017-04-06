@@ -30,6 +30,6 @@ a:active {
 
 <body>
 
-<a href="https://ayubanggoro.github.io/Form-Pendaftaran">Form Pendaftaran</a> 
+<a href="https://ayubanggoro.github.io/mantab-jiwa">Form Pendaftaran</a> 
 
 </body>
