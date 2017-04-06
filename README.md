@@ -27,10 +27,9 @@ a:active {
     text-decoration: underline;
 }
 </style>
-</head>
+
 <body>
 
 <a href="https://ayubanggoro.github.io/Form-Pendaftaran">Form Pendaftaran</a> 
 
 </body>
-</html>
